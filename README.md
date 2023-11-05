@@ -2,4 +2,5 @@
 first_day_of_using_git
 
 This is my first Repository
-Author - harsh
+<br>
+Author - harsh </br>
